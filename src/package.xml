@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <package xmlns="http://www.mendix.com/package/1.0/">
-    <clientModule name="LoginSnake" version="1.0.1" xmlns="http://www.mendix.com/clientModule/1.0/">
+    <clientModule name="DotGridAnime" version="1.0.1" xmlns="http://www.mendix.com/clientModule/1.0/">
         <widgetFiles>
-            <widgetFile path="LoginSnake/LoginSnake.xml" />
+            <widgetFile path="DotGridAnime/DotGridAnime.xml" />
         </widgetFiles>
         <files>
-            <file path="LoginSnake/widget/" />
+            <file path="DotGridAnime/widget/" />
         </files>
     </clientModule>
 </package>
